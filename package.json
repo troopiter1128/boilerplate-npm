@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "john doe",
   "dependencies": {
     "express": "^4.21.0"
   },
@@ -11,7 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "author": "John Doe",
   "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
